@@ -1,0 +1,18 @@
+/*Styles for body and h1 */
+
+
+/*Style for body*/
+
+
+/*Overriding specificity of external stylesheet by using !important*/
+
+body {
+    background-color: blue !important;
+}
+
+
+/*Style for h1*/
+
+.title {
+    color: white !important;
+}

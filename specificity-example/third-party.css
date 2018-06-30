@@ -1,0 +1,15 @@
+/*Styles for body and h1 */
+
+
+/*Style for body*/
+
+body {
+    background-color: red;
+}
+
+
+/*Style for h1*/
+
+.title {
+    color: blue;
+}
